@@ -1,5 +1,7 @@
 <!-- README START -->
 
+![Logo]({{site.baseurl}}//storybook-siux-addon.png)
+
 # Storybook Addon Kit
 
 Simplify the creation of Storybook addons
